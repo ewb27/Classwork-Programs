@@ -1,0 +1,10 @@
+Virtual Pe(s)t Project
+https://www.cs.drexel.edu/~ewb49/pest2.html
+
+Virtual Pe(s)t Documentation Page
+https://www.cs.drexel.edu/~ewb49/documentation.html
+
+This was a project for my CS164 Intro to Computing class. It is a finite state machine, which can be used to interact with my virtal pet (or pest, depending on your point of view): 
+the Phillie Phanatic. The user can interact with the Phanatic in six different ways. Depending on his current mood (or state), he will respond differently. Click the "Start" button 
+for the standard output to begin interacting with my virtual pet. Also included is the documentation page, also part of the class assignment, which provides a more in-depth overview
+of the project. 
